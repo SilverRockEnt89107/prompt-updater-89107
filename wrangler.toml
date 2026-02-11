@@ -1,0 +1,8 @@
+name = "prompt-updater-89107"
+main = "worker.js"
+compatibility_date = "2024-09-02"
+
+# Secrets (set via `npx wrangler secret put <NAME>`):
+# ADMIN_USERNAME
+# ADMIN_PASSWORD
+# RETELL_API_KEY
